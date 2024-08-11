@@ -45,3 +45,7 @@ The analysis revealed that certain behavioral patterns and attitudes in a relati
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an issue if you have any suggestions or improvements.
+
+## License
+
+This project is licensed under the MIT License.
